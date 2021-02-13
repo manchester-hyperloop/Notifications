@@ -1,0 +1,19 @@
+{
+    "name": "Notifications",
+    "description": "A subscriber-creator model for updating subscribers on a variable change",
+    "keywords": "Hyperloop, Manchester, hyperloop, manchester, subscriber, creator, notifications ",
+    "version": "1.0.0",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/manchester-hyperloop/Notifications"
+    },
+    "author":
+    {
+        "name": "Harry O'Brien",
+        "url": "https://github.com/Harry-OBrien",
+        "maintainer": true
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
