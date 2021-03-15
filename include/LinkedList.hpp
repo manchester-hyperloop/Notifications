@@ -65,7 +65,6 @@ public:
 
             tail = e;
         }
-
         elementCount++;
     }
 
@@ -93,6 +92,7 @@ public:
 
     size_t getElementCount()
     {
+        std::cout << "elementCount: " << elementCount << std::endl;
         return elementCount;
     }
 
